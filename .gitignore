@@ -1,0 +1,15 @@
+# Python and Jupyter Notebook caches
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Large dataset folders
+data/
+
+# Trained model checkpoints
+*.h5
+*.keras
