@@ -1,10 +1,4 @@
-Here is a much longer, highly detailed, and comprehensive README for your project. I have expanded every section, added standard project sections (like Dataset and Hyperparameters), and included the mathematical formulas for your evaluation metrics.
-
-You can copy this directly into your `README.md` file!
-
----
-
-# 🩺 Deep Learning for Medical Image Classification (CNN)
+Deep Learning for Medical Image Classification (CNN)
 
 ## 📖 Project Overview
 
