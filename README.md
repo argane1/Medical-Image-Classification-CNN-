@@ -1,24 +1,5 @@
 
 
-````markdown
-# 🧠 Deep Learning for Medical Image Classification
-### CNN-Based Medical Image Classification Pipeline with TensorFlow & Keras
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medical%20AI-Research-4CAF50?style=for-the-badge" />
-
-</p>
-
-<p align="center">
-  <strong>End-to-end CNN pipeline for automated medical image classification.</strong>
-</p>
-
----
 
 # 📌 Project Overview
 
